@@ -1,3 +1,5 @@
+
+![logo](https://github.com/naryeen/naryeen/blob/main/GithubBackground.jpg)
 <h1 align="center">Hi 👋, I'm Nar Bdr Kharka</h1>
 <h3 align="center">A passionate frontend developer, Software developer from Bhutan</h3>
 <img align="right" alt="animatedcoding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
