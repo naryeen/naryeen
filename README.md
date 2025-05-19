@@ -17,7 +17,7 @@
 - 💬 Ask me about **App Development, Networking, AWS**  
 - 📫 Reach me at:  
   - **narbdr81@gmail.com**   
-- 📄 Know more about me: [My Resume](https://docs.google.com/document/d/1_jfxp9S3PHfRj12MobmT-D-6xbZ0gMLpzQnS1fPMluE/edit?usp=sharing)  
+- 📄 Know more about me: [My Resume](https://naryeen.github.io/Resume/)  
 - ⚡ Fun fact: **I am passionate about learning and coding**  
 
 ---
