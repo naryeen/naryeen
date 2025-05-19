@@ -16,8 +16,7 @@
 - 👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/naryeen97)  
 - 💬 Ask me about **App Development, Networking, AWS**  
 - 📫 Reach me at:  
-  - **narbdr81@gmail.com**  
-  - **12190065.gcit@rub.edu.bt**  
+  - **narbdr81@gmail.com**   
 - 📄 Know more about me: [My Resume](https://docs.google.com/document/d/1_jfxp9S3PHfRj12MobmT-D-6xbZ0gMLpzQnS1fPMluE/edit?usp=sharing)  
 - ⚡ Fun fact: **I am passionate about learning and coding**  
 
